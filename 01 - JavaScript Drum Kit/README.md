@@ -23,3 +23,5 @@
    ```
 
 3. `audio.currentTime = 0`: 將音檔時間設回 0。本次練習希望可以達到使用者每次按壓按鍵都會即時發出聲響，就必須將音檔時間設定至每次點擊後回到 0，才有辦法達到使用者下一次按壓按鍵時即時發出聲響的效果。請參考[這篇文章](https://www.codespeedy.com/set-audio-playing-time-to-starting-position-in-javascript/)
+
+4. `Array.from()`: 本次練習用此來淺拷貝 key 陣列，可參考[此篇文章](https://kknews.cc/zh-tw/code/x625ppg.html)

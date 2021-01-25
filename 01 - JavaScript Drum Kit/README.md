@@ -1,5 +1,7 @@
 ## 01 - JavaScript Drum Kit
 
+## [Demo](https://nini-chang.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html)
+
 ### 操作
 - 按下相對應的英文字母按鍵，就會聽到聲音
 

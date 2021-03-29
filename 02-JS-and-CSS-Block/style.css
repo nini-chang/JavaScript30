@@ -1,0 +1,68 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  font-family: 'Fira Code', monospace;
+}
+
+body {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+html {
+  background: url('./background.jpg') bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #000;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.clock {
+  width: 20rem;
+  height: 20rem;
+  border: 20px solid #435560;
+  border-radius: 50%;
+  padding: 2rem;
+  box-shadow: 2px 2px 5px 2px #333;
+}
+
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateY(-3px);
+}
+
+.hand {
+  width: 50%;
+  height: 6px;
+  background: #6e7c7c;
+  position: absolute;
+  top: 50%;
+  transform-origin: 100%;
+  transform: rotate(90deg);
+  transition: all 0.05s;
+  transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.sec-hand {
+  background: #92967d;
+}
+
+.center {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: #92967d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

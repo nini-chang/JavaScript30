@@ -4,7 +4,7 @@ Free course: [JavaScript30](https://javascript30.com/) / [GitHub](https://github
 
 ### Practice List
 
-| No | Topic | Demo |
-| -- | ----- | ---- |
-| 01 | JavaScript Drum Kit | [demo](https://nini-chang.github.io/JavaScript30/01-JavaScript-Drum-Kit/index.html) |
-| 02 | JS and CSS block |  |
+| No | Topic | Demo | Note |
+| -- | ----- | ---- | ---- |
+| 01 | JavaScript Drum Kit | [demo](https://nini-chang.github.io/JavaScript30/01-JavaScript-Drum-Kit/index.html) | [筆記](https://nini-chang.github.io/JavaScript30/01-JavaScript-Drum-Kit/README.md) |
+| 02 | JS and CSS block | [demo](https://nini-chang.github.io/JavaScript30/02-JS-and-CSS-Block/index.html) |  |

@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('https://img.lanrentuku.com/img/allimg/1609/147479906785.jpg') bottom center;
+  background: url('./background.jpg') bottom center;
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #000;

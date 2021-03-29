@@ -6,5 +6,5 @@ Free course: [JavaScript30](https://javascript30.com/) / [GitHub](https://github
 
 | No | Topic | Demo |
 | -- | ----- | ---- |
-| 01 | JavaScript Drum Kit | [demo](https://nini-chang.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html) |
+| 01 | JavaScript Drum Kit | [demo](https://nini-chang.github.io/JavaScript30/01-JavaScript-Drum-Kit/index.html) |
 | 02 | JS and CSS block |  |
